@@ -1,0 +1,28 @@
+{
+    "language": "English",
+    "@language":{
+        "description": "The current Language"
+    },
+    "home": "Home",
+     "about": "About",
+     "contacts": "Contacts",
+     "creative": "Creative for everyone",
+     "bring": "Bring all team toghether in one design system",
+     "whatwedo":"What We Do",
+     "thisisexactcly":"This is exactly how spend our time toghether",
+     "designing":"Designing",
+     "developing":"Developing",
+     "launching":"Launching",
+     "designingDesc":"Designing each project from the ground up with amazing aesthetics and delivering a pleasant experience in mind.",
+     "developingDesc":"Professionally crafting the code while trying to make it easy to expand for further development down the road.",
+     "launchingDesc":"Carefully publishing the final product to the end users and eagerly supporting them in each and every step of the way.",
+     "callus":"Call Us",
+     "getin":"Get in touch. We would love to hear from you",
+     "address":"Address:",
+     "addressDesc":"Tehran, Ozgol, Hashem ozgoli St, No 23, 2nd Floor, Unit 4",
+     "tel":"021-22469367",
+     "ariaco":"AriaCo",
+     "telName":"Tel:"
+
+
+}
